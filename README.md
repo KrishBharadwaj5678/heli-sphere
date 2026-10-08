@@ -29,10 +29,13 @@
 
 | Feature | Description |
 | --- | --- |
-| 🚁 **Multiple Helicopters** | Choose from different 3D helicopter models |
-| 🔧 **Adjustable Scale** | Resize the helicopter to fit your environment |
-| 🎚️ **Speed Control** | Adjust the helicopter’s flight speed with ease |
-| 🗺️ **Position & Movement** | Move and position the helicopter freely around your world |
+| 🚁 **Multiple Helicopters** | Select from a variety of 3D helicopter models |
+| 🔧 **Adjustable Scale** | Resize the helicopter to suit your AR environment |
+| 🎚️ **Speed Control** | Adjust the helicopter’s flight speed in real time |
+| 🗺️ **Position & Movement** | Move and position the helicopter freely in your surroundings |
+| 📸 **Capture** | Capture photos of your helicopter within the AR environment |
+| 🕹️ **Joystick Control** | Pilot and maneuver the helicopter with intuitive joystick controls |
+| 🎙️ **Pilot Voice Commands** | Hear realistic in-flight pilot communications |
 
 <img src="https://github.com/KrishBharadwaj5678/heli-sphere/raw/main/readme/gifs/divider.gif" width="100%"/>
 
